@@ -11,6 +11,9 @@
     <author>Netzhirsch GbR</author>
     <compatibility minVersion="5.2.0" />
 
+    <description lang="de">Sie können CSS-ID und CSS-Klasse für Einkaufswelten vergeben, um diese mit CSS zu designen oder mit Javascript anzusprechen. Wenn Sie die Höhe der Einkaufswelt festlegen möchten, klicken Sie Automatische Höhe an.</description>
+    <description>Set CSS-ID and CSS-Class, to design via CSS or adress via JavaScript.</description>
+
     <changelog version="1.0.0">
         <changes lang="de">Initiale Version</changes>
         <changes lang="en">Initial version</changes>
